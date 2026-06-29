@@ -17,9 +17,9 @@ R and SPSS, thematic analysis in NVivo, and participatory co-design approaches. 
 in high-impact journals including *Age and Ageing* (IF 9.5) and *PLoS One*, and have presented 
 findings at international environmental research conferences.
 
-Alongside research, I hold a Teaching Fellowship at the University of Edinburgh's Centre for Data, 
+Alongside research, I am also a Teaching Fellow at the University of Edinburgh's Centre for Data, 
 Culture and Society, where I deliver training in geospatial analysis, data visualisation, and 
-computational tools — including R, GIS, and AutoCAD — to over 100 academics and students. I also 
+computational tools — including R, and GIS — to over 100 academics and students. I also 
 supervise MSc dissertations in Landscape and Wellbeing, with 75% of students achieving a Merit or 
 higher.
 
