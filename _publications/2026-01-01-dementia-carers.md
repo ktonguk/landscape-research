@@ -5,5 +5,6 @@ category: manuscripts
 permalink: /publication/2026-dementia-carers
 date: 2026-01-01
 venue: "Aging & Mental Health"
+paperurl: "https://doi.org/10.1080/13607863.2025.2564719"
 citation: "Tong, K., Wainwright, J. E., Horne, J., Jones, K., Dadova, K., Alder, E., Leu, A., Birkett-Swan, L & Vseteckova, J. (2026). Aging & Mental Health, 30(2), 230-243."
 ---
